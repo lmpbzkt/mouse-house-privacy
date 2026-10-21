@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="index,follow">
+  <title>Mouse House — Privacy Policy</title>
+  <style>
+    body {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      color: #222;
+    }
+    h1, h2 { line-height: 1.25; }
+    h1 { margin-bottom: 8px; }
+    .updated { color: #666; }
+  </style>
+</head>
+<body>
+  <h1>Mouse House — Privacy Policy</h1>
+  <p class="updated"><strong>Last updated:</strong> October 21, 2026</p>
+
+  <h2>1. Introduction</h2>
+  <p>This Privacy Policy explains how Mouse House ("the App"), developed by Guillermo Portugal ("the Developer"), handles information when you use the game.</p>
+  <p>Mouse House is an offline logic puzzle game. The current version does not require an account and does not include advertising, analytics, or tracking SDKs.</p>
+
+  <h2>2. Information Stored on Your Device</h2>
+  <p>The App stores game-related information locally on your device to provide its features. This may include:</p>
+  <ul>
+    <li>Game progress, statistics, achievements, and in-game currency.</li>
+    <li>Saved or unfinished game sessions.</li>
+    <li>Game preferences, including audio settings and language selection.</li>
+    <li>Local game session identifiers used to manage game progress.</li>
+  </ul>
+  <p>This information is stored in the App's private storage. The App does not use these local game identifiers to identify you personally.</p>
+
+  <h2>3. Information Collection and Sharing</h2>
+  <p>The current version of Mouse House does not collect or transmit personal information to the Developer or third-party services through the App.</p>
+  <p>The App does not include advertising, analytics, user authentication, or crash-reporting services.</p>
+
+  <h2>4. Internet Access</h2>
+  <p>The current version of the App does not declare the Android Internet permission and is designed to operate offline.</p>
+
+  <h2>5. Device Backups</h2>
+  <p>Android device backup features may include certain App data if backup is enabled on your device. Such backups are managed by Android and the backup services configured on your device, rather than by Mouse House directly.</p>
+  <p>Restoring a device backup may restore previously saved App data.</p>
+
+  <h2>6. Data Retention and Deletion</h2>
+  <p>Game data remains in the App's local storage until it is removed by clearing the App's data, uninstalling the App, or through applicable device backup and restore operations.</p>
+  <p>The Developer does not maintain a separate server containing your game progress.</p>
+
+  <h2>7. Children's Privacy</h2>
+  <p>Mouse House does not knowingly collect personal information from children through the App. The current version does not include account creation, advertising, or online communication features.</p>
+
+  <h2>8. Security</h2>
+  <p>The App stores its game data in Android's private application storage. No method of storage or electronic processing can be guaranteed to be completely secure.</p>
+
+  <h2>9. Changes to This Policy</h2>
+  <p>This Privacy Policy may be updated if the App's functionality or data practices change. Any updated version will be published at the same policy URL, with a revised update date.</p>
+
+  <h2>10. Contact</h2>
+  <p>For questions about this Privacy Policy or the App's privacy practices, contact:</p>
+  <p><strong>Developer:</strong> Guillermo Portugal<br>
+  <strong>App:</strong> Mouse House<br>
+  <strong>Email:</strong> <a href="mailto:limprlu@gmail.com">limprlu@gmail.com</a></p>
+</body>
+</html>
